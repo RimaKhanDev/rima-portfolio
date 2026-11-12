@@ -1,0 +1,1 @@
+Rima Portfolio update: Aspire Campus Leader, C1 2027 outreach/referral, proposed ClimateShield BD and learning focus. Preserves existing project pages, assets, OMS IT branding, ServiceFlow AI. Static site only; no secure admin CMS. Deploy ZIP as Cloudflare Pages Direct Upload.
